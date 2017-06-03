@@ -1,13 +1,13 @@
 # Mini Library: Greetr
 Greetr is a simple library for creating responsive welcome messages on websites that are based on the end-users preferred language and name.  
 
-#Installation
+# Installation
 Clone the repository and get started!
 
-#Dependencies
+# Dependencies
 jQuery
 
-#License
+# License
 MIT License
 
 Copyright (c) [year] [fullname]
